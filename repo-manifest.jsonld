@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-auto-prefetch/commit/3df0e0ec2ab4ea48c9a0c31011271656fb57e191",
       "git:hexsha": "3df0e0ec2ab4ea48c9a0c31011271656fb57e191",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-auto-prefetch/commit/5b1469a9630a60b57e12618dab6d87288a12de5e",
